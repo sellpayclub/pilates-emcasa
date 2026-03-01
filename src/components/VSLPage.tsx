@@ -80,7 +80,7 @@ export function VSLPage() {
             
             {/* CTA Button 1 */}
             <div className="text-center animate-pulse">
-              <a href="https://pay.lowify.com.br/checkout.php?product_id=F8txTo" className="block w-full md:w-auto mx-auto">
+              <a href="https://seguro.vitago-suplements.shop/r/J8CBGUX09A" className="block w-full md:w-auto mx-auto">
                 <button className="bg-green-600 hover:bg-green-700 text-white text-xl md:text-2xl font-black py-6 px-10 rounded-2xl shadow-xl transform transition hover:scale-105 w-full uppercase tracking-wide">
                   PARTICIPAR DO PILATES EM CASA
                 </button>
@@ -121,7 +121,7 @@ export function VSLPage() {
                   <p className="text-gray-500 font-medium">Pagamento único • Acesso imediato</p>
                 </div>
 
-                <a href="https://pay.lowify.com.br/checkout.php?product_id=F8txTo" className="block w-full">
+                <a href="https://seguro.vitago-suplements.shop/r/J8CBGUX09A" className="block w-full">
                   <button className="w-full bg-green-600 hover:bg-green-700 text-white text-xl font-bold py-6 px-8 rounded-2xl shadow-xl transform transition hover:scale-[1.02] uppercase tracking-wide">
                     QUERO APROVEITAR O DESCONTO
                   </button>
@@ -191,7 +191,7 @@ export function VSLPage() {
 
             {/* Final CTA */}
             <div className="text-center space-y-6">
-               <a href="https://pay.lowify.com.br/checkout.php?product_id=F8txTo" className="block w-full md:w-auto mx-auto">
+               <a href="https://seguro.vitago-suplements.shop/r/J8CBGUX09A" className="block w-full md:w-auto mx-auto">
                    <button className="w-full bg-green-600 hover:bg-green-700 text-white text-2xl font-black py-6 px-12 rounded-2xl shadow-2xl transform transition hover:scale-105 uppercase tracking-wide">
                       QUERO COMEÇAR AGORA
                    </button>
